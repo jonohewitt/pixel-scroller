@@ -14,12 +14,13 @@ header {
 
 section {
   background-color: #71c1e3;
-  min-height: 100vh;
+  height: 100vh;
 }
 
 section.s3 {
   background-color: #fff;
 }
+
 section.s2,
 section.s5 {
   background-color: #e4929e;
